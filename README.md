@@ -77,18 +77,22 @@ vite build   # For production build using Vite or - ' npm run build '
 </p>
 
 <p align="center">
+  *Screenshot of Persona Digital Card  - PC.*
+</p>
+
+<p align="center">
   <img src="ProjectOutputs/Snapshots/mainScreen1.jpg" alt="Image2"  />
 </p>
 
 <p align="center">
-  *Screenshot of Persona Digital Card.*
+  *Screenshot of Persona Digital Card  - Mobile.*
 </p>
 
 ---
 
 ## 📱 Live Demo
 
-- 🌐 [Persona Digital Card](https://persona-digital-card.vercel.app/)
+- 🌐 [Persona Digital Card Live](https://persona-digital-card.vercel.app/)
 
 ---
 
@@ -103,11 +107,15 @@ Check out the demo of the working app below:
 </p>
 
 <p align="center">
+  *Complete App Working Video - PC.*
+</p>
+
+<p align="center">
   <img src="ProjectOutputs/WorkingVideo/workingVideoMobile.gif" alt="Screen working 2" width="30%" />
 </p>
 
 <p align="center">
-  *Complete App Working Video.*
+  *Complete App Working Video - Mobile.*
 </p>
 
 [🎥 Watch the Working Demo - PC](ProjectOutputs/WorkingVideo/workingVideoPC.mp4)
