@@ -51,10 +51,10 @@ git clone https://github.com/deepanshubajaj/PersonaDigitalCard.git
 npm install
 ```
 ```bash
-    npm run dev     # For local development
+npm run dev     # For local development
 ```
 ```bash
-    vite build   # For production build using Vite or - ' npm run build '
+vite build   # For production build using Vite or - ' npm run build '
 ```
 ---
 
