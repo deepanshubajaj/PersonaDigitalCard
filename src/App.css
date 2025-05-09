@@ -1,0 +1,216 @@
+body {
+  background-color: #23252C;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background-color: white;
+  width: 317px;
+  color: black;
+  margin: 20px auto;
+  border-radius: 20px;
+}
+
+.App .Header {
+  text-align: center;
+}
+
+.App .Header .name {
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 25px;
+  color: #2B283A;
+  transition: all 0.3s ease;
+}
+
+.App .Header .name:hover {
+  transform: scale(1.2);
+  color: #5093e2;
+}
+
+.App .Header .title {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 15px;
+  color: #F47D27;
+  max-width: 260px;
+  margin: 0 auto;
+  word-wrap: break-word;
+  transition: all 0.3s ease;
+}
+
+.App .Header .title:hover {
+  color: #5093e2;
+  transform: scale(1.2);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.App .Header .website a {
+  color: #5093e2;
+  font-weight: bold;
+  text-decoration: underline;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.App .Header .website a:hover {
+  color: #10B981;
+  text-decoration: none;
+  transform: scale(1.2);
+}
+
+.App .About,
+.App .Interests {
+  padding: 10px 35px;
+  text-align: justify;
+}
+
+.App .About .title,
+.App .Interests .title {
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 16px;
+  color: #2B283A;
+}
+
+.App .About p,
+.App .Interests p {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #4A4E74;
+  text-align: justify;
+  word-spacing: 2px;
+}
+
+.pill-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.pill {
+  background-color: #f0f0f0;
+  color: #4A4E74;
+  font-family: "Inter", sans-serif;
+  font-size: 9.5px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  white-space: nowrap;
+  line-height: 1;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.pill:hover {
+  background-color: #F47D27;
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transform: scale(1.1);
+}
+
+.App .Footer {
+  height: 64px;
+  background-color: #D5D4D8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.App .Footer a {
+  font-size: 25px;
+  color: #918E9B;
+}
+
+.App .Footer a:hover {
+  color: cornflowerblue;
+}
+
+.App .--info-buttons {
+  display: flex;
+  justify-content: space-around;
+  padding: 1.2rem;
+}
+
+.App .--info-buttons button {
+  width: 115px;
+  height: 34px;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.App .--info-buttons .--info-email {
+  background-color: #ffffff;
+  color: #374151;
+  border: 1px solid #D1D5DB;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.App .--info-buttons .--info-email:hover {
+  background-color: #374151;
+  color: #ffffff;
+  border-color: #374151;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.App .--info-buttons .--info-email a {
+  text-decoration: none;
+  color: #374151;
+  transition: color 0.3s ease;
+}
+
+.App .--info-buttons .--info-email:hover a {
+  color: #ffffff;
+}
+
+.App .--info-buttons .--info-linkedin {
+  background-color: #5093e2;
+  color: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.App .--info-buttons .--info-linkedin:hover {
+  background-color: #3b7bbf;
+  border-color: #3b7bbf;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.App .--info-buttons .--info-linkedin a {
+  text-decoration: none;
+  color: #ffffff;
+  transition: color 0.3s ease;
+}
+
+.App .--info-buttons .--info-linkedin:hover a {
+  color: #ffffff;
+}
+
+.profile-pic {
+  width: 290px;
+  height: 310px;
+  border-radius: 20px;
+  background-color: #f0f0f0;
+  object-fit: cover;
+  padding: 10px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.profile-pic:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+/*# sourceMappingURL=App.css.map */
