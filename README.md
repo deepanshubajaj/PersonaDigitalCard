@@ -137,7 +137,8 @@ I welcome contributions from the community.
 
 - You are free to use, modify, and redistribute this code under the terms of the MIT License.
 - If you'd like to contribute, please **open an issue** or **submit a pull request**.
-- All contributions will be reviewed and approved by the author — **Deepanshu Bajaj**.
+- All contributions will be reviewed and approved by the author — **[Deepanshu Bajaj](https://github.com/deepanshubajaj?tab=overview&from=2025-03-01&to=2025-03-31)**.
+
 
 ---
 
