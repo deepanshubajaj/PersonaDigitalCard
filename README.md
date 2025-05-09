@@ -28,7 +28,7 @@ Designed to be fast, responsive, and visually appealing, this app gives visitors
 - 🔗 Clickable links to social media profiles (GitHub, LinkedIn, Twitter, etc.)  
 - 📱 Responsive design optimized for all devices  
 - ⚡ Fast performance powered by Vite  
-- 💻 Built with React + TypeScript  
+- 💻 Built with React + JavaScript  
 
 ---
 
