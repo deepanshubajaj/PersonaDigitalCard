@@ -58,22 +58,14 @@ vite build   # For production build using Vite or - ' npm run build '
 ```
 ---
 
-### 🖼️ Icon and Logo
+### 🖼️ Icon / Logo
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/logo3.png" alt="Icon1" width="40%"  />
+  <img src="ProjectOutputs/Snapshots/AppIcon.png" alt="Icon" width="40%"  />
 </p>
 
 <p align="center">
-  *This is the App Icon.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/logo1.png" alt="Icon2" width="40%" />
-</p>
-
-<p align="center">
-  *This is the App Logo.*
+  *This is the App Icon/Logo.*
 </p>
 
 ---
@@ -81,138 +73,22 @@ vite build   # For production build using Vite or - ' npm run build '
 ### 🖼️ UI Sneak Peek
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/screenAbout.jpg" alt="Image1"  />
+  <img src="ProjectOutputs/Snapshots/mainScreen2.jpg" alt="Image1"  />
 </p>
 
 <p align="center">
-  *Screenshot of About Page.*
+  <img src="ProjectOutputs/Snapshots/mainScreen1.jpg" alt="Image2"  />
 </p>
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/screenEthereal.jpg" alt="Image2"  />
-</p>
-
-<p align="center">
-  *Screenshot of Ethereal Journey Page.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenVideo.jpg" alt="Image3"  />
-</p>
-
-<p align="center">
-  *Screenshot of Watch Now Page.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenMemory.jpg" alt="Image4"  />
-</p>
-
-<p align="center">
-  *Screenshot of Memory Game Page.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenLogin.jpg" alt="Image5"  />
-</p>
-
-<p align="center">
-  *Screenshot of Login Page.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenSignup.jpg" alt="Image6"  />
-</p>
-
-<p align="center">
-  *Screenshot of Register Page.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenHome.jpg" alt="Image7"  />
-</p>
-
-<p align="center">
-  *Screenshot of Home Page.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenAdd.jpg" alt="Image8"  />
-</p>
-
-<p align="center">
-  *Screenshot of Add Dialog.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenViewP.jpg" alt="Image9"  />
-</p>
-
-<p align="center">
-  *Screenshot of View Dialog.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenUpdate.jpg" alt="Image10"  />
-</p>
-
-<p align="center">
-  *Screenshot of Edit Dialog.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenFP.jpg" alt="Image11"  />
-</p>
-
-<p align="center">
-  *Screenshot of Forgot Password Page.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenRC.jpg" alt="Image12"  />
-</p>
-
-<p align="center">
-  *Screenshot of Forgot Password Reset Code Dialog.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenRP.jpg" alt="Image13"  />
-</p>
-
-<p align="center">
-  *Screenshot of Reset Password Page.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenSnake1.jpg" alt="Image14"  />
-</p>
-
-<p align="center">
-  *Screenshot of Secret Snake Game (1) Page.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/screenSnake2.jpg" alt="Image15"  />
-</p>
-
-<p align="center">
-  *Screenshot of Secret Snake Game (2) Page.*
-</p>
-
-<p align="center">
-  <img src="ProjectOutputs/Snapshots/ServerWorkingPic.jpg" alt="Image16"  />
-</p>
-
-<p align="center">
-  *Screenshot of Server Running in Backend.*
+  *Screenshot of Persona Digital Card.*
 </p>
 
 ---
 
 ## 📱 Live Demo
 
-- 🌐 [Geeky Shop Live](https://geeky-shop-web-app.vercel.app/)
+- 🌐 [Persona Digital Card](https://persona-digital-card.vercel.app/)
 
 ---
 
@@ -222,7 +98,21 @@ vite build   # For production build using Vite or - ' npm run build '
 
 Check out the demo of the working app below:
 
-[Watch the Working Demo](https://github.com/user-attachments/assets/69704f3d-a9fc-456d-81b4-2697cc8f2d03)
+<p align="center">
+  <img src="ProjectOutputs/WorkingVideo/workingVideoPC.gif" alt="Screen working 1" />
+</p>
+
+<p align="center">
+  <img src="ProjectOutputs/WorkingVideo/workingVideoMobile.gif" alt="Screen working 2" width="30%" />
+</p>
+
+<p align="center">
+  *Complete App Working Video.*
+</p>
+
+[🎥 Watch the Working Demo - PC](ProjectOutputs/WorkingVideo/workingVideoPC.mp4)
+
+[🎥 Watch the Working Demo - Mobile](ProjectOutputs/WorkingVideo/workingVideoMobile.MP4)
 
 ---
 
